@@ -2,7 +2,7 @@
 
 This is the corresponding project to my blog article:
 
-http://tomgrill.de/2016/07/16/how-to-write-your-own-libgdx-extension-setup
+http://tomgrill.de/how-to-write-your-own-libgdx-extension-setup
 
 # License
 

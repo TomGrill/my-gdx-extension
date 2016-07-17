@@ -87,7 +87,7 @@ uploadArchives {
 
                 scm {
                     url 'scm:git@github.com:TomGrill/my-gdx-extension.git'
-                    connection 'scm:git@github.com:TomGrill/my-gdx-extensiongit'
+                    connection 'scm:git@github.com:TomGrill/my-gdx-extension.git'
                     developerConnection 'scm:git@github.com:TomGrill/my-gdx-extension.git'
                 }
 

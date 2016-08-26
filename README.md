@@ -5,11 +5,9 @@ This is the corresponding project to my blog article:
 http://tomgrill.de/how-to-write-your-own-libgdx-extension-setup
 
 ## Updates & News
-Follow me to receive updatest about this and my other projects (Promise: No BS posts)
+Follow me to receive release updates about this and my other projects (Promise: No BS posts)
 
-https://twitter.com/TomGrillGames
-
-https://www.facebook.com/tomgrillgames
+https://twitter.com/TomGrillGames and https://www.facebook.com/tomgrillgames
 
 I will also stream sometimes when developing at https://www.twitch.tv/tomgrill and write a blog article from time to time at http://tomgrill.de 
 

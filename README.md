@@ -1,7 +1,5 @@
 # my-gdx-extension
 
-This is the corresponding project to my blog article:
-
 Sometimes you just need some platform specific code which can be easily achieved by following the instructions from the<a href="https://github.com/libgdx/libgdx/wiki/Interfacing-with-platform-specific-code"> libGDX Wiki page</a>. However, in few cases (reusable code) you might consider writing your own libGDX extension for your own usage or maybe to share with the community. I have already written like 8 <a href="http://tomgrill.de/libgdx-extensions/">extensions for libGDX</a>. Few of them are released to the public.<!--more-->
 
 Ok, let's get into it. At first, we need two projects:
